@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 582fab3678b807945ada8bdd7721f36b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4126223763802008796
+    second: descargar__1_-removebg-preview_0
+  - first:
+      213: -2673157451655733523
+    second: descargar__1_-removebg-preview_1
+  - first:
+      213: -1976426955883417962
+    second: descargar__1_-removebg-preview_2
+  - first:
+      213: -6541088467138186735
+    second: descargar__1_-removebg-preview_3
+  - first:
+      213: -3360201194848752054
+    second: descargar__1_-removebg-preview_4
+  - first:
+      213: 8797582276010516606
+    second: descargar__1_-removebg-preview_5
+  - first:
+      213: -1806257233115429721
+    second: descargar__1_-removebg-preview_6
+  - first:
+      213: -8753829897076526271
+    second: descargar__1_-removebg-preview_7
+  - first:
+      213: 4930338830950985977
+    second: descargar__1_-removebg-preview_8
+  - first:
+      213: -1254547407740805449
+    second: descargar__1_-removebg-preview_9
+  - first:
+      213: 7769069008423911177
+    second: descargar__1_-removebg-preview_10
+  - first:
+      213: -2194912274855529893
+    second: descargar__1_-removebg-preview_11
+  - first:
+      213: -6795482960785677113
+    second: descargar__1_-removebg-preview_12
+  - first:
+      213: 6567524814462438532
+    second: descargar__1_-removebg-preview_13
+  - first:
+      213: 3396573131590636759
+    second: descargar__1_-removebg-preview_14
+  - first:
+      213: -2822274427018954176
+    second: descargar__1_-removebg-preview_15
+  - first:
+      213: 4179711776837774799
+    second: descargar__1_-removebg-preview_16
+  - first:
+      213: -414802931962200616
+    second: descargar__1_-removebg-preview_17
+  - first:
+      213: -5436094852952619215
+    second: descargar__1_-removebg-preview_18
+  - first:
+      213: -7745587635561105400
+    second: descargar__1_-removebg-preview_19
+  - first:
+      213: -5839063853531951376
+    second: descargar__1_-removebg-preview_20
+  - first:
+      213: -687362096984632819
+    second: descargar__1_-removebg-preview_21
+  - first:
+      213: -2545092455686940914
+    second: descargar__1_-removebg-preview_22
+  - first:
+      213: -8261391735571855470
+    second: descargar__1_-removebg-preview_23
+  - first:
+      213: -7636438495470501739
+    second: descargar__1_-removebg-preview_24
+  - first:
+      213: 643713738148896259
+    second: descargar__1_-removebg-preview_25
+  - first:
+      213: -3129360769024596681
+    second: descargar__1_-removebg-preview_26
+  - first:
+      213: 6338734128706564827
+    second: descargar__1_-removebg-preview_27
+  - first:
+      213: 9086691510205846986
+    second: descargar__1_-removebg-preview_28
+  - first:
+      213: -5109929987777109574
+    second: descargar__1_-removebg-preview_29
+  - first:
+      213: 5408448908647149917
+    second: descargar__1_-removebg-preview_30
+  - first:
+      213: -4317830567348132833
+    second: descargar__1_-removebg-preview_31
+  - first:
+      213: 7226723555572012414
+    second: descargar__1_-removebg-preview_32
+  - first:
+      213: 322336675432223729
+    second: descargar__1_-removebg-preview_33
+  - first:
+      213: -1920934879571426759
+    second: descargar__1_-removebg-preview_34
+  - first:
+      213: 4567217424142109281
+    second: descargar__1_-removebg-preview_35
+  - first:
+      213: -5312086350873350228
+    second: descargar__1_-removebg-preview_36
+  - first:
+      213: -2269205653410664165
+    second: descargar__1_-removebg-preview_37
+  - first:
+      213: 7695056040665278327
+    second: descargar__1_-removebg-preview_38
+  - first:
+      213: 5743269401853997224
+    second: descargar__1_-removebg-preview_39
+  - first:
+      213: 8849507024475417921
+    second: descargar__1_-removebg-preview_40
+  - first:
+      213: -1580894265874053312
+    second: descargar__1_-removebg-preview_41
+  - first:
+      213: -504462796348193068
+    second: descargar__1_-removebg-preview_42
+  - first:
+      213: -7811622392206505542
+    second: descargar__1_-removebg-preview_43
+  - first:
+      213: -580507685041929129
+    second: descargar__1_-removebg-preview_44
+  - first:
+      213: 2700845066702893429
+    second: descargar__1_-removebg-preview_45
+  - first:
+      213: 447329893733241155
+    second: descargar__1_-removebg-preview_46
+  - first:
+      213: 3112950039010756906
+    second: descargar__1_-removebg-preview_47
+  - first:
+      213: 9115504372511055961
+    second: descargar__1_-removebg-preview_48
+  - first:
+      213: 1940742240113859687
+    second: descargar__1_-removebg-preview_49
+  - first:
+      213: 947527266687614586
+    second: descargar__1_-removebg-preview_50
+  - first:
+      213: -7004069357565837235
+    second: descargar__1_-removebg-preview_51
+  - first:
+      213: 159895540876060788
+    second: descargar__1_-removebg-preview_52
+  - first:
+      213: -3412394768912800190
+    second: descargar__1_-removebg-preview_53
+  - first:
+      213: -3065648102145103943
+    second: descargar__1_-removebg-preview_54
+  - first:
+      213: 8851545408143322305
+    second: descargar__1_-removebg-preview_55
+  - first:
+      213: -5132464670656069904
+    second: descargar__1_-removebg-preview_56
+  - first:
+      213: 5433134231317961784
+    second: descargar__1_-removebg-preview_57
+  - first:
+      213: 21617362545606447
+    second: descargar__1_-removebg-preview_58
+  - first:
+      213: -3062439213676562955
+    second: descargar__1_-removebg-preview_59
+  - first:
+      213: 6423080093143149316
+    second: descargar__1_-removebg-preview_60
+  - first:
+      213: -4515180992738443309
+    second: descargar__1_-removebg-preview_61
+  - first:
+      213: 7632479124238538471
+    second: descargar__1_-removebg-preview_62
+  - first:
+      213: -5381965283605735402
+    second: descargar__1_-removebg-preview_63
+  - first:
+      213: 2033811578403005699
+    second: descargar__1_-removebg-preview_64
+  - first:
+      213: 3487889059441467062
+    second: descargar__1_-removebg-preview_65
+  - first:
+      213: -1747198076644683474
+    second: descargar__1_-removebg-preview_66
+  - first:
+      213: -8540061837015220260
+    second: descargar__1_-removebg-preview_67
+  - first:
+      213: 3560770364554479321
+    second: descargar__1_-removebg-preview_68
+  - first:
+      213: -1256187721489647902
+    second: descargar__1_-removebg-preview_69
+  - first:
+      213: 6058614914151240143
+    second: descargar__1_-removebg-preview_70
+  - first:
+      213: 3920513191878459864
+    second: descargar__1_-removebg-preview_71
+  - first:
+      213: 5134043600710565764
+    second: descargar__1_-removebg-preview_72
+  - first:
+      213: -7861660029251996726
+    second: descargar__1_-removebg-preview_73
+  - first:
+      213: 5057356354456472958
+    second: descargar__1_-removebg-preview_74
+  - first:
+      213: -920156707547612503
+    second: descargar__1_-removebg-preview_75
+  - first:
+      213: -7653691980026581805
+    second: descargar__1_-removebg-preview_76
+  - first:
+      213: 4764622277243401396
+    second: descargar__1_-removebg-preview_77
+  - first:
+      213: 8960825612697286651
+    second: descargar__1_-removebg-preview_78
+  - first:
+      213: 6519209825060974623
+    second: descargar__1_-removebg-preview_79
+  - first:
+      213: 6118139176000342607
+    second: descargar__1_-removebg-preview_80
+  - first:
+      213: 2700664727855704410
+    second: descargar__1_-removebg-preview_81
+  - first:
+      213: 182510181519915656
+    second: descargar__1_-removebg-preview_82
+  - first:
+      213: -6405013089504479160
+    second: descargar__1_-removebg-preview_83
+  - first:
+      213: -7070610877888056512
+    second: descargar__1_-removebg-preview_84
+  - first:
+      213: -742490068817656012
+    second: descargar__1_-removebg-preview_85
+  - first:
+      213: 6515862836249661659
+    second: descargar__1_-removebg-preview_86
+  - first:
+      213: -3175722145460704478
+    second: descargar__1_-removebg-preview_87
+  - first:
+      213: -1147687218413542181
+    second: descargar__1_-removebg-preview_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 552
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdca139c6aa434930800000000000000
+      internalID: 4126223763802008796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 550
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee1f51f57907ead0800000000000000
+      internalID: -2673157451655733523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 552
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eef0ab7225294e0800000000000000
+      internalID: -1976426955883417962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 552
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f2dff1b26935a0800000000000000
+      internalID: -6541088467138186735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 551
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e623ff0da2e51d0800000000000000
+      internalID: -3360201194848752054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 545
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7021ebe77a471a70800000000000000
+      internalID: 8797582276010516606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 544
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4cc2fcd92eee6e0800000000000000
+      internalID: -1806257233115429721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 543
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433f80a616248680800000000000000
+      internalID: -8753829897076526271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 508
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f5217b051c6440800000000000000
+      internalID: 4930338830950985977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 507
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bed8bf87c3f69ee0800000000000000
+      internalID: -1254547407740805449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 507
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f7a92d91741db60800000000000000
+      internalID: 7769069008423911177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 504
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5277184aea1a81e0800000000000000
+      internalID: -2194912274855529893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 505
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4662d404891b1a0800000000000000
+      internalID: -6795482960785677113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 506
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc893c509842b50800000000000000
+      internalID: 6567524814462438532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 506
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d49812744d032f20800000000000000
+      internalID: 3396573131590636759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 500
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04abdd69c5445d8d0800000000000000
+      internalID: -2822274427018954176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdaee947b1510a30800000000000000
+      internalID: 4179711776837774799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 450
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd3a9c5ee25e3af0800000000000000
+      internalID: -414802931962200616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 449
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1370e6c688c1f84b0800000000000000
+      internalID: -5436094852952619215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 455
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808f8b55515228490800000000000000
+      internalID: -7745587635561105400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 464
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe8765ac5a77fea0800000000000000
+      internalID: -5839063853531951376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 458
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d92980dff576f0800000000000000
+      internalID: -687362096984632819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d04265e30eacd0800000000000000
+      internalID: -2545092455686940914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 413
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29744eabcf3a95d80800000000000000
+      internalID: -8261391735571855470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 415
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590cc50e5abe50690800000000000000
+      internalID: -7636438495470501739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 415
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e576bfb3eeee800800000000000000
+      internalID: 643713738148896259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735ee3ce5f64294d0800000000000000
+      internalID: -3129360769024596681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 401
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd233332b15b7f750800000000000000
+      internalID: 6338734128706564827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 403
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5906109c96a1e70800000000000000
+      internalID: 9086691510205846986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1ed6befb1e519b0800000000000000
+      internalID: -5109929987777109574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 340
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5133c190abae0b40800000000000000
+      internalID: 5408448908647149917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 340
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1424e0d9fbf314c0800000000000000
+      internalID: -4317830567348132833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 340
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7551d3f8ca7a4460800000000000000
+      internalID: 7226723555572012414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 343
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3d73d9f7b297400800000000000000
+      internalID: 322336675432223729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 347
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932cc7297e77755e0800000000000000
+      internalID: -1920934879571426759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 346
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a07f19c04026f30800000000000000
+      internalID: 4567217424142109281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 347
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf2ef7cb9da746b0800000000000000
+      internalID: -5312086350873350228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 346
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1136222b792280e0800000000000000
+      internalID: -2269205653410664165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 347
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777e396e2b45aca60800000000000000
+      internalID: 7695056040665278327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 347
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b0e2871134bf40800000000000000
+      internalID: 5743269401853997224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d6e2780c3cfca70800000000000000
+      internalID: 8849507024475417921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04700278a098f0ae0800000000000000
+      internalID: -1580894265874053312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 290
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6044d62c9cff8f0800000000000000
+      internalID: -504462796348193068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 292
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab94b0172da879390800000000000000
+      internalID: -7811622392206505542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 281
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75401bb065f91f7f0800000000000000
+      internalID: -580507685041929129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 281
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571313a47445b7520800000000000000
+      internalID: 2700845066702893429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 282
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34112651b2c353600800000000000000
+      internalID: 447329893733241155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 282
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2946ce319b633b20800000000000000
+      internalID: 3112950039010756906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950aa084ee6c08e70800000000000000
+      internalID: 9115504372511055961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 252
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c159ee8c6eeea10800000000000000
+      internalID: 1940742240113859687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 234
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e79e1670b462d00800000000000000
+      internalID: 947527266687614586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 238
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d400718470c8cce90800000000000000
+      internalID: -7004069357565837235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 238
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4782613b520183200800000000000000
+      internalID: 159895540876060788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 238
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462d8d890db4a0d0800000000000000
+      internalID: -3412394768912800190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 238
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76a492b41a475d0800000000000000
+      internalID: -3065648102145103943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 241
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc6f95b6a107da70800000000000000
+      internalID: 8851545408143322305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 204
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe7d433392d5c8b0800000000000000
+      internalID: -5132464670656069904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 207
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cd8b22cce566b40800000000000000
+      internalID: 5433134231317961784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 200
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ff28f60eccc4000800000000000000
+      internalID: 21617362545606447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 200
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5f49ab2c70085d0800000000000000
+      internalID: -3062439213676562955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 206
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b2ea3505d532950800000000000000
+      internalID: 6423080093143149316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfba3f3fcad651c0800000000000000
+      internalID: -4515180992738443309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 164
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e692db23530ce960800000000000000
+      internalID: 7632479124238538471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 166
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6181235e61b6f45b0800000000000000
+      internalID: -5381965283605735402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 167
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a9cedadc893c10800000000000000
+      internalID: 2033811578403005699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 166
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bedaf3be98776030800000000000000
+      internalID: 3487889059441467062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 167
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2119593b94b0c7e0800000000000000
+      internalID: -1747198076644683474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 166
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf76d4a10b9b7980800000000000000
+      internalID: -8540061837015220260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 167
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d60202e7c56a6130800000000000000
+      internalID: 3560770364554479321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 119
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6f6614cef119ee0800000000000000
+      internalID: -1256187721489647902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 124
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc15edc1a26841450800000000000000
+      internalID: 6058614914151240143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 128
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1062be9f5786630800000000000000
+      internalID: 3920513191878459864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 104
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f78b91479cf3740800000000000000
+      internalID: 5134043600710565764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 105
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac33c833bd5c5e290800000000000000
+      internalID: -7861660029251996726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 104
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d41f13fc65f2640800000000000000
+      internalID: 5057356354456472958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 106
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7ee48952fa33f0800000000000000
+      internalID: -920156707547612503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 106
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6246f1bf98c590800000000000000
+      internalID: -7653691980026581805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4710497b65f1240800000000000000
+      internalID: 4764622277243401396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 104
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf73b031b6f3b5c70800000000000000
+      internalID: 8960825612697286651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10fefeabc2e87a50800000000000000
+      internalID: 6519209825060974623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 77
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac6ef4a2ff7e450800000000000000
+      internalID: 6118139176000342607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 104
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a592441e240ba7520800000000000000
+      internalID: 2700664727855704410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af2690b08688200800000000000000
+      internalID: 182510181519915656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 108
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848bb52c782dc17a0800000000000000
+      internalID: -6405013089504479160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 108
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04338764ed420ed90800000000000000
+      internalID: -7070610877888056512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 50
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4374ede573522b5f0800000000000000
+      internalID: -742490068817656012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 50
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd094df1abefc6a50800000000000000
+      internalID: 6515862836249661659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 50
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b297ec8819de3d0800000000000000
+      internalID: -3175722145460704478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descargar__1_-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 20
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd464393e889210f0800000000000000
+      internalID: -1147687218413542181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      descargar__1_-removebg-preview_0: 4126223763802008796
+      descargar__1_-removebg-preview_1: -2673157451655733523
+      descargar__1_-removebg-preview_10: 7769069008423911177
+      descargar__1_-removebg-preview_11: -2194912274855529893
+      descargar__1_-removebg-preview_12: -6795482960785677113
+      descargar__1_-removebg-preview_13: 6567524814462438532
+      descargar__1_-removebg-preview_14: 3396573131590636759
+      descargar__1_-removebg-preview_15: -2822274427018954176
+      descargar__1_-removebg-preview_16: 4179711776837774799
+      descargar__1_-removebg-preview_17: -414802931962200616
+      descargar__1_-removebg-preview_18: -5436094852952619215
+      descargar__1_-removebg-preview_19: -7745587635561105400
+      descargar__1_-removebg-preview_2: -1976426955883417962
+      descargar__1_-removebg-preview_20: -5839063853531951376
+      descargar__1_-removebg-preview_21: -687362096984632819
+      descargar__1_-removebg-preview_22: -2545092455686940914
+      descargar__1_-removebg-preview_23: -8261391735571855470
+      descargar__1_-removebg-preview_24: -7636438495470501739
+      descargar__1_-removebg-preview_25: 643713738148896259
+      descargar__1_-removebg-preview_26: -3129360769024596681
+      descargar__1_-removebg-preview_27: 6338734128706564827
+      descargar__1_-removebg-preview_28: 9086691510205846986
+      descargar__1_-removebg-preview_29: -5109929987777109574
+      descargar__1_-removebg-preview_3: -6541088467138186735
+      descargar__1_-removebg-preview_30: 5408448908647149917
+      descargar__1_-removebg-preview_31: -4317830567348132833
+      descargar__1_-removebg-preview_32: 7226723555572012414
+      descargar__1_-removebg-preview_33: 322336675432223729
+      descargar__1_-removebg-preview_34: -1920934879571426759
+      descargar__1_-removebg-preview_35: 4567217424142109281
+      descargar__1_-removebg-preview_36: -5312086350873350228
+      descargar__1_-removebg-preview_37: -2269205653410664165
+      descargar__1_-removebg-preview_38: 7695056040665278327
+      descargar__1_-removebg-preview_39: 5743269401853997224
+      descargar__1_-removebg-preview_4: -3360201194848752054
+      descargar__1_-removebg-preview_40: 8849507024475417921
+      descargar__1_-removebg-preview_41: -1580894265874053312
+      descargar__1_-removebg-preview_42: -504462796348193068
+      descargar__1_-removebg-preview_43: -7811622392206505542
+      descargar__1_-removebg-preview_44: -580507685041929129
+      descargar__1_-removebg-preview_45: 2700845066702893429
+      descargar__1_-removebg-preview_46: 447329893733241155
+      descargar__1_-removebg-preview_47: 3112950039010756906
+      descargar__1_-removebg-preview_48: 9115504372511055961
+      descargar__1_-removebg-preview_49: 1940742240113859687
+      descargar__1_-removebg-preview_5: 8797582276010516606
+      descargar__1_-removebg-preview_50: 947527266687614586
+      descargar__1_-removebg-preview_51: -7004069357565837235
+      descargar__1_-removebg-preview_52: 159895540876060788
+      descargar__1_-removebg-preview_53: -3412394768912800190
+      descargar__1_-removebg-preview_54: -3065648102145103943
+      descargar__1_-removebg-preview_55: 8851545408143322305
+      descargar__1_-removebg-preview_56: -5132464670656069904
+      descargar__1_-removebg-preview_57: 5433134231317961784
+      descargar__1_-removebg-preview_58: 21617362545606447
+      descargar__1_-removebg-preview_59: -3062439213676562955
+      descargar__1_-removebg-preview_6: -1806257233115429721
+      descargar__1_-removebg-preview_60: 6423080093143149316
+      descargar__1_-removebg-preview_61: -4515180992738443309
+      descargar__1_-removebg-preview_62: 7632479124238538471
+      descargar__1_-removebg-preview_63: -5381965283605735402
+      descargar__1_-removebg-preview_64: 2033811578403005699
+      descargar__1_-removebg-preview_65: 3487889059441467062
+      descargar__1_-removebg-preview_66: -1747198076644683474
+      descargar__1_-removebg-preview_67: -8540061837015220260
+      descargar__1_-removebg-preview_68: 3560770364554479321
+      descargar__1_-removebg-preview_69: -1256187721489647902
+      descargar__1_-removebg-preview_7: -8753829897076526271
+      descargar__1_-removebg-preview_70: 6058614914151240143
+      descargar__1_-removebg-preview_71: 3920513191878459864
+      descargar__1_-removebg-preview_72: 5134043600710565764
+      descargar__1_-removebg-preview_73: -7861660029251996726
+      descargar__1_-removebg-preview_74: 5057356354456472958
+      descargar__1_-removebg-preview_75: -920156707547612503
+      descargar__1_-removebg-preview_76: -7653691980026581805
+      descargar__1_-removebg-preview_77: 4764622277243401396
+      descargar__1_-removebg-preview_78: 8960825612697286651
+      descargar__1_-removebg-preview_79: 6519209825060974623
+      descargar__1_-removebg-preview_8: 4930338830950985977
+      descargar__1_-removebg-preview_80: 6118139176000342607
+      descargar__1_-removebg-preview_81: 2700664727855704410
+      descargar__1_-removebg-preview_82: 182510181519915656
+      descargar__1_-removebg-preview_83: -6405013089504479160
+      descargar__1_-removebg-preview_84: -7070610877888056512
+      descargar__1_-removebg-preview_85: -742490068817656012
+      descargar__1_-removebg-preview_86: 6515862836249661659
+      descargar__1_-removebg-preview_87: -3175722145460704478
+      descargar__1_-removebg-preview_88: -1147687218413542181
+      descargar__1_-removebg-preview_9: -1254547407740805449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

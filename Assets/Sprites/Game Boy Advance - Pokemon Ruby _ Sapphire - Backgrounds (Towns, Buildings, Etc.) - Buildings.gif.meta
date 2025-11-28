@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: e0b640390f929714c8c045488957ae9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2542820658167773766
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_0
+  - first:
+      213: 7405799551869518055
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_1
+  - first:
+      213: 6687248652135384396
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_2
+  - first:
+      213: -1243960504291185746
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_3
+  - first:
+      213: 7184413456408576518
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_4
+  - first:
+      213: -1922538643116284966
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_5
+  - first:
+      213: -4429436464579512466
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_6
+  - first:
+      213: 4996927544462692870
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_7
+  - first:
+      213: 6372415462304494400
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_8
+  - first:
+      213: 5726169310106061449
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_9
+  - first:
+      213: 7167805842912751788
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_10
+  - first:
+      213: -3732241965601866732
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_11
+  - first:
+      213: 8578062266758937824
+    second: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+      Etc.) - Buildings_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab58266751616bcd0800000000000000
+      internalID: -2542820658167773766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 171
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e00eee647fa6c660800000000000000
+      internalID: 7405799551869518055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 171
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c454d33f731edcc50800000000000000
+      internalID: 6687248652135384396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 167
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabab1b13809cbee0800000000000000
+      internalID: -1243960504291185746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 169
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60205c459f924b360800000000000000
+      internalID: 7184413456408576518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a7164a45c155e0800000000000000
+      internalID: -1922538643116284966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67739de00b7782c0800000000000000
+      internalID: -4429436464579512466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60250187027a85540800000000000000
+      internalID: 4996927544462692870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 79
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043bdd7b91e5f6850800000000000000
+      internalID: 6372415462304494400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 90
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a8d9426a0777f40800000000000000
+      internalID: 5726169310106061449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0b8cdff69297360800000000000000
+      internalID: 7167805842912751788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cbe70e4b9643cc0800000000000000
+      internalID: -3732241965601866732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings,
+        Etc.) - Buildings_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 123
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec395fde266b0770800000000000000
+      internalID: 8578062266758937824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_0: -2542820658167773766
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_1: 7405799551869518055
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_10: 7167805842912751788
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_11: -3732241965601866732
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_12: 8578062266758937824
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_2: 6687248652135384396
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_3: -1243960504291185746
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_4: 7184413456408576518
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_5: -1922538643116284966
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_6: -4429436464579512466
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_7: 4996927544462692870
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_8: 6372415462304494400
+      Game Boy Advance - Pokemon Ruby _ Sapphire - Backgrounds (Towns, Buildings, Etc.) - Buildings_9: 5726169310106061449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

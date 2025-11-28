@@ -1,0 +1,6345 @@
+fileFormatVersion: 2
+guid: f1dd1f404d289344e9e6c145629623f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4545831340272107707
+    second: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3e3a1b76f9e0c0800000000000000
+      internalID: -4545831340272107707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279a22a08a1a1a4fbcc790af050a68d
+      internalID: 738974106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842796a6dbe17754aaf7aef0ebe55ebd
+      internalID: 1262334401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3facb064c5c04c9faa87915808552
+      internalID: 1393643860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04809ca1df2681848aa680a85d45a94a
+      internalID: 1974171304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb49c78a2513d448d29351669b548b
+      internalID: 256234619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21685e5c4b0403e45923f6572f14b4ff
+      internalID: 347096389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9c816610def324f923a4ddff003043
+      internalID: -361048120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97638ae133b9e664080fe827cff857f8
+      internalID: -2123884678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb89d359b5ee2c0428d2926b835359af
+      internalID: -1755095430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c081d830d4f3925489d883a32e8bb523
+      internalID: 710352547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35d99cba37c98409ecb218c808aa52
+      internalID: -1653200250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e128c906425be034bad62a8839821cef
+      internalID: -613946034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c153b052716c8a4fb0d1e03b3f36514
+      internalID: -550302099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c194a8578cb87a4d9d0b497458fc6f9
+      internalID: 1824891034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0660f00a24f6c004c993b57ec2b89847
+      internalID: -1195511486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82952f55f98d0145a5318a759e45217
+      internalID: -799884470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf257e71ecf364397143fca13b60cb
+      internalID: -1904550680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a900d6be6c30fad468634a6cff81f0d8
+      internalID: -1063921819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee468095756954bbbdde2b32cf9587
+      internalID: 2089857482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca3b057f138484b921b498dfe4181e
+      internalID: 1489702389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a6cd887eab59a41b9107d1ccf72ea9
+      internalID: 273551630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3171bb1c40bf194998d125d4e85c7e6
+      internalID: 1287886598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b24c62fcf1b9b74088744ce6de049f4
+      internalID: -1288786443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4676565857a8c498d5d289cc0072d4
+      internalID: 432525239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d88340ca4720d640b39d9394a6508ab
+      internalID: 869197363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633317457675a014ab45c134aa4a7cff
+      internalID: 1843781145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542089a93da03a4d99610bc2abd663f
+      internalID: -1833253669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a5988ef03ce064e99acd092ba76604
+      internalID: -904364168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c708f0b68c524faa933158b29b822
+      internalID: -646151028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ccf9772bee5dc428d7eaee8f321c6f
+      internalID: -1059515439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d26d01d450ddc045a24e20dd130fd40
+      internalID: 707854074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8abce2f514dd140a0e5a502d2732b1
+      internalID: -1084166817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6565eea3bfb9a469e44cf32a2f530b
+      internalID: -2048288181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299aa5878fe749b4da5edbff0968fb86
+      internalID: 449755147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_35
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 292
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f647cfd5fc593a478b63fd2e0ca07fa
+      internalID: -230231571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eafee5b49f7843488f25fb3c73933ea
+      internalID: 154899197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f39305eef1f9344828275f579926d9
+      internalID: 1432322378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190f12d7056b4c40bf2363097813ba8
+      internalID: 2042628655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a7d110664a114cbe28a4e0ac0d7e0
+      internalID: -1471992634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01530aa111461ae4eb02a8f3d1c0fd1d
+      internalID: 629813450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a91e9cd064b4174bbd3e65733109900
+      internalID: -1262138511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_42
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4655d6a21d21df449342862ed0d84e2
+      internalID: 2066613105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebfc869b95812c449e8011f7a49e8ca
+      internalID: 378233097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433b6c7f40e7ae45b44aa6eef9a53a9
+      internalID: 1151757597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1a86cfa0e189448e1b36c7e48249e
+      internalID: -197075893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_46
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0044b7068d3afdb4e993c44dbdb7c4be
+      internalID: -1709939211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07066285df90414db5f4659365c9f06
+      internalID: 685857341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_48
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca551524acec841a7d16391f393bc6
+      internalID: -905858452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_49
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e8afd3b36edf45805fadca0ed5910
+      internalID: 1049034503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c7af6cbe2a014a97a8ff6e5f7a9c8
+      internalID: 175950965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b44e7d3252c9c5449cda2a2e1614a14
+      internalID: -68197888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_52
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e43509df7aa0f46abac40545c95c4e
+      internalID: -2145387910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 270
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d69dbc62d999244fb61107c5af39bd3
+      internalID: 1426095657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6579c480cd078604a8fa018b7049ad7f
+      internalID: -1781427497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb177565642484385bdb13f0ecc4a7
+      internalID: -1503866355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_56
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b4d66ba0a2f344b3bad5f94d11ebe
+      internalID: 1876776881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b326d143409954b9fea9aef5512d9d
+      internalID: 435209620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4024ea92028049838e86ca4101370
+      internalID: 1558777867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe065a4d8efd69e4d8988bd9099b5f3c
+      internalID: 1264781642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4b2ac0eecb9ca48864312759d7b892
+      internalID: -1272795208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4240cc1a6986ef4f9cb5aec8a0efd94
+      internalID: -1817866497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56e209082029643b1fad462aa5a0b7
+      internalID: -1690306180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2fa5740bd613f4588038de8cb37af9
+      internalID: 1870824938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05e1c1edfc3e594ea63884527cb52fc
+      internalID: -1837166832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae1340077289c41b7b6bdcce6955e3
+      internalID: 1193873270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_66
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d229ab7820fd7947bdf56a6d2325e41
+      internalID: 251745227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db6e3fe1a42924e8ba028548c79e58
+      internalID: 474754800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_68
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7360f3e64a79d489885f1c5466b807
+      internalID: -1501491785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_69
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e06223829e744bac0e7d3c05a490b
+      internalID: -826619050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_70
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d8ff2222e9c04b810be6f7fabc56a
+      internalID: 1429288499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_71
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 248
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1114b0a35d30c849acb64f44e4d4303
+      internalID: 1185347669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c99a4db98ff9438ac2afa066a0c48
+      internalID: 1131987626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b760f6178c26147ab3ff2699cd0d56
+      internalID: 1146287432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_74
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adbd5f40d65ed9499d24fc225bd4930
+      internalID: 1947532012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b4c39385f955c44924fd7bd42b1dd5
+      internalID: -100877397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427461da0ada8134182605b6e713d70f
+      internalID: -405331489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f4cbec049051840aeb9a3d3e4bc02d
+      internalID: -1511626836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_78
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111648974c1d744cbcf49ccd6fd2c80
+      internalID: 900634869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_79
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8841c0299b6d08246b337e23aa0a1add
+      internalID: 1586534405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f77dfe9dc4bbb24aa1585ba552a9a31
+      internalID: 585178427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_81
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26822e3ff140042a5699621a88f87a
+      internalID: -1408701515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_82
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a4c0a73a136442834b64269191868
+      internalID: -1096278069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_83
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2916b5f8ca630c143bc3ad3b150eac74
+      internalID: -695707320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_84
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1532bf82ff1314a49977ef9c0379d7f3
+      internalID: 313498551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_85
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dea1eadb20dff4fb5bfe85bbbc09b6
+      internalID: 812337302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_86
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356c7bc4d4de1747a2f62757afc0832
+      internalID: -1959122763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_87
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7918b469b28aac341bac59737d0bd005
+      internalID: 830400426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_88
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac5369e349ae44fa95b07f71d9a52b
+      internalID: -260859346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_89
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 226
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0641593b4116b75428c5702a3d5ac588
+      internalID: 568094333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09943936792b8414c84158e595ebc2c3
+      internalID: 1284562930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb3f4e3c3f44a43847bbba1392cf55
+      internalID: 785461478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_92
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce5acd09dae9ec4287e595e2c7747e9
+      internalID: -1731814254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_93
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29af8d23778157a438811eca26d4316a
+      internalID: 894206032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ced7f2261f2547a5d97039690b82d
+      internalID: 1691981772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_95
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0279e2fbc4ddcd4eb5a0c029816336c
+      internalID: 1090436171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_96
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f42e8f071a4c64ba88062f30a779b2
+      internalID: -338534103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_97
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51bab8ca12c2a46a6957be86e4ed57
+      internalID: 1791461866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ee5e6a452d6947b37b4907821df42
+      internalID: -1638142741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_99
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31defccaee4184640b2f4a10eb29cbff
+      internalID: -83906993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_100
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73120157f0d75944b6518e7bc8d61b9
+      internalID: -972542332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_101
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ae1c4fd264924c83ef766816a21cd
+      internalID: 230617995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_102
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0235a4cba3ff424998d73bd92d437f1
+      internalID: -287638859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_103
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f24ddbfdf2d9447abb52eadea562fc
+      internalID: -1431853997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_104
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9491ed4e0cab449498b763bbeb4ac671
+      internalID: 1243550374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_105
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf98a64aec9c994eb158de3b460255b
+      internalID: -849466434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_106
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d04d1e6f36c4429a7fdeb55031e9e
+      internalID: 1351900724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_107
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 204
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dafae71af13de48b55bef22ffb1745
+      internalID: 260832642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_108
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80b7346d6f6824a9b9e7642ea78952
+      internalID: 1815703464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_109
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c6e325a70c6ef44af36e836eb89f02
+      internalID: 1336772970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f3714ba718954a99269a35d730ca4
+      internalID: -347573553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444dde333fe8d449aad56b21a97be6e
+      internalID: -1637278040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c313080c2441a4f9685b7b2199d30d
+      internalID: -1705391399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_113
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a4decbbefd9f449ce4ffa3809df99
+      internalID: -646351347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_114
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba41de5e6b7129643b80bdb405f1e311
+      internalID: 1838405422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_115
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a5731bf6c88545bd38248bfb17697
+      internalID: 2033730800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d829ed0437a6f4dab5ece9c54d269d
+      internalID: -1296041214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_117
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db55631e4c156cf4f8777dc239cb77b9
+      internalID: -1809187539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_118
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9df29bbf679ca46a92c38e9374226d
+      internalID: -230252455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_119
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c829dd8ac5703474da5e4f801df976cb
+      internalID: 873555544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_120
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7b5c5fce757f47813ecb331a6a28b
+      internalID: 1579156321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_121
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0030639bb5c2c4bacb1e21aab52eed
+      internalID: -1552812802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_122
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394233b3cf55e8d49a5744e6f58643e2
+      internalID: 588877617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_123
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35bfa33206c9548b40cbc0bcd2aee4
+      internalID: 173961737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_124
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303d9099e7a95b844b119983e3d18c11
+      internalID: 841243331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_125
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3fc295b4b4204bb9a40449e0a7272
+      internalID: 735144352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_126
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a062f759280d58945a32347ea2fe3775
+      internalID: -623767861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_127
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e1251a2c101a4eb692e9d28c511c5
+      internalID: 1344409191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_128
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca933db4daf194eb4656acb64f7b12
+      internalID: -1377492227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_129
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f6e9bbbbc6f54abbca1d403d36e97
+      internalID: -339583430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf664b9306f7bfe409db5fc524cb688e
+      internalID: -472914818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_131
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3561aa547c7c24597bd5a5f4c94a22
+      internalID: 2060878921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_132
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e22b243aad9db4bbd56eb417614c19
+      internalID: 1712336650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_133
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c4a0c9a3acf043ba9f565a65aa0b6
+      internalID: 1123056914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19d183aed68668469f6c73667aa7585
+      internalID: -1067795596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_135
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21894beed9e9e14488a7f6b882834a5
+      internalID: 1872055661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_136
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ade4a879c5ba4286fea4358770e16
+      internalID: -547232992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_137
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b745b91aff9e41831dced1d726d46
+      internalID: 509567764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_138
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ba621923fb50428cc234b1a9e65c9
+      internalID: 1183681943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_139
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073701110c18adf429ea1b1c9d7b2fb2
+      internalID: -978336925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_140
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a85471b3771b53479c30934570d8b9b
+      internalID: -798708087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_141
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bebf6ecc8ef0834db5646369dd78b2b
+      internalID: -292419401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_142
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc0236fc80efbc4585193dea22b6dde
+      internalID: -496537729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 160
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25c18e47ddc424386cc65d3f8f5f24
+      internalID: 1435617885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aefb74fd4a3064e8643e12044f252c
+      internalID: 1385195163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_145
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ad423debad3b44b150012349ba32e
+      internalID: 537132294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_146
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b4181cf23f68449e95a7c735f50bb
+      internalID: -2030300941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_147
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40c1d7f9a81f84193fd43c14c56390
+      internalID: -2047431898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466338eaedd27e439e2de287ba047d1
+      internalID: -1477147668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_149
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae37a137cfe5f4aad42389bc4732ae
+      internalID: 1621034777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_150
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6eb0f27db0921448c2f60f9e690686
+      internalID: -157018840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_151
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25f1050c8d47d34db1961d19b4883d6
+      internalID: 1393231446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_152
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02018624f0b698468f4b9f838055fa3
+      internalID: 1120494314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_153
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86be1857aacfd04f8bcbdac4a74d4fc
+      internalID: 800915707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_154
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db9d359bedbc84995d86c917b56db2
+      internalID: 613238338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_155
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0305bb665fa94184493d38ba70632ac8
+      internalID: -1163545258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_156
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad31555c788cf1498ca493996b7a6ca
+      internalID: 421113069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_157
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd091029e11e0b9439af62a7965a71d3
+      internalID: -865831589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_158
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2bf50aaa8ce524eb4140c61da50cb3
+      internalID: 1461429697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_159
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4312b982b26346aef28f303583cb8
+      internalID: 427524898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_160
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a19d018e100741980d4644d20be05
+      internalID: -1685022332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_161
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 138
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096be9ff95e42714b901379c68f1bb04
+      internalID: -368676592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_162
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38704befbb1dad7479de317d3173ee26
+      internalID: -433541972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_163
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775e4e60883451489f7d7098f72ace9
+      internalID: 1731740825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_164
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d83ebaea5080184c803be64181bf2dc
+      internalID: 273526463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_165
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182212e5442cebd4483b97eb0c3d0d24
+      internalID: 1515388861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_166
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cfe0422f83c374a92fa5d97747337c
+      internalID: -362813807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_167
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2455c45ef7924ba03b4331bccfcef
+      internalID: -1930566066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_168
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1b5d2ee7027747a2fb36c669263b1
+      internalID: 61166399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_169
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56584c60b0e8f074582f0852c2f8f5a7
+      internalID: 1124570967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19e43dd9ec30364a9c905427c26170b
+      internalID: -692141873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_171
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246cc3fecee697c45ae8726544d49e6c
+      internalID: -1052367077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_172
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e14a14a3cca5dd4fa3948046c3e33e9
+      internalID: -1039177242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_173
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ef4782eec77134fb25ddbcd8af3a4e
+      internalID: 2077552506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_174
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62f1e8b1b156040b74d317e4febec8
+      internalID: -821248229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_175
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e164bf9f6c3783548abcfc742a4c1c6b
+      internalID: 903443562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_176
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e7e7b43e5eee45b34efeccbf77fc9
+      internalID: -1687656417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_177
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d3f562a95390245bc6f6f1d6da8324
+      internalID: -1980949635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_178
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7733b11129df9844bb1814cb0da45bd
+      internalID: -623659263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_179
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65fc0efb0b4b844a84414e058b33a35
+      internalID: 385907231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6054cc11e5d442adc439b8a14d945
+      internalID: -963287208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_181
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99af810d4fc07a409f76ff09d7aa736
+      internalID: 844875015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_182
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512910c1a0b73b4986c9a1cf75f2629
+      internalID: -1342286252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_183
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae23eb84ae5a044e91473947649968e
+      internalID: 2130430350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_184
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b199651869e4d9d4a83a6532de86b30b
+      internalID: 1519934174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4300f2b6136514bb658b1eab48fc6b
+      internalID: -594510061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_186
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad389b56de530940ba2ec748ed36e21
+      internalID: -273668948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_187
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed8d6c5ff83a44084e36b069375bbf
+      internalID: 1818128518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba659b097059749bac1252bfd79cbb
+      internalID: -30774553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_189
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85972ae1923a3214d8407e3869144d32
+      internalID: 25797190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_190
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdee445541c3c14597449d9a057e587
+      internalID: -537117905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_191
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a4e8e8bb91ff47a7e9bc0052976d5
+      internalID: 2091460188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_192
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083db60b5ccd0e4c805cf3b32e9b3c9
+      internalID: -1645596829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_193
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fda4691b066fb499ef1741cfd3d723
+      internalID: -1672986714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_194
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5560b7e6274bea24190c386ef9fbc487
+      internalID: 2054422977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_195
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1670af379c216b4cbcea336b48897b5
+      internalID: -659093981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_196
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c52518266dbc8545a57e9ecab1b6fcc
+      internalID: -1120258375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_197
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 94
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938480f1c4381134a9b047b589639690
+      internalID: -1486612773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_198
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded69d9ab191788408f8c595275fc5ca
+      internalID: 793698192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_199
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d44badeb79c046b98f52ae7691641
+      internalID: -497540260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_200
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6721a41833214eb091c32bf06a51f
+      internalID: 1787990826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_201
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f588eacdaf4fb1b48afe9fc90f97f631
+      internalID: 284584681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_202
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdcbebafbb50964796de8c3d8562fc7
+      internalID: 25282871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_203
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c870f3e79395478b7805811b346a9
+      internalID: 1316518761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_204
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7cb13081f7e004d923c610ef7182d2
+      internalID: 37098345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_205
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b7ca616efa1b4ba88226070f6e4a7
+      internalID: -340298177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_206
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5935cdcb9daad4c469255de76d2d2b69
+      internalID: 995810416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_207
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3823f30c68669da40ad6e57b62614bde
+      internalID: 795605775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_208
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150a3041f87b734fb2a93c7a4b00e7d
+      internalID: 1911449035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_209
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769f35a236529604484b6ebb31c98c5b
+      internalID: -1072816289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_210
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e783e1ba33924696fac8f161aadc1
+      internalID: 464948968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_211
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9f46e8032a8c4cae7f765a5c25976
+      internalID: 1985397553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_212
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1108cac90656c479effd8e9e819e90
+      internalID: -1060387873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_213
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63dbcef284abb3429d59b269772e7ec
+      internalID: -1759839450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_214
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e62b60afe07f4e8db4f904aa5a2db
+      internalID: 1849208937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_215
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 72
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ccc417c27b7f14bb5747b4f301dc03
+      internalID: 975930478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_216
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d910697abdfa3e4eb71ab209895d3cb
+      internalID: 1766394141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_217
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac291c6cc74f8b54f93243bafce73c69
+      internalID: 137258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_218
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f1c2185dfff4b448352078ef9e0dac
+      internalID: 545180038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_219
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dae54feb2fdaf408b759dcf8974c47
+      internalID: 10786245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_220
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b79abe678513b4985487f70ba23465
+      internalID: -1010393999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_221
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c44336dc8a3b14db4f0a6d22efb3e2
+      internalID: -589665971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_222
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc12ddb6a9464364b868e5aff9398635
+      internalID: 564646925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_223
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a67970747ae048a5a33157bd4bde3
+      internalID: 1034804291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_224
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0791607e41a94e886f76e68a89544
+      internalID: 1842784097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_225
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2544fbbf8096a3a4ea72c60338848062
+      internalID: -1388837753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_226
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a942fddfcbb64f9aec495ccbf9545
+      internalID: -1790188729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_227
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da56cb2118f9a04ba777a6604006d48
+      internalID: -1924626269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_228
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c106cd3e6512f547877a65598037036
+      internalID: 2065536636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_229
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8583bc61cc86184691ca16801ff6e2c
+      internalID: -1770815914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_230
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ea1b231786f040afccf8c65edf6e2
+      internalID: 1887293707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_231
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c795d9f550bc545aabc82bb596599f
+      internalID: 1780957179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_232
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b7d52fbd87d9246bb127e046ec9720
+      internalID: -930180425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_233
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 50
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775a4311e50126646a487fd8d09ec8fc
+      internalID: -756279546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_234
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4668049d3f00024c8a638438d98f85f
+      internalID: 937880150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_235
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c2e77d94409ed49ac00fcb74199e7b
+      internalID: -913351976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_236
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a48b10ed2dbbc547a3fccaf25acfeaf
+      internalID: 1731925801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_237
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118d01926b18d64894810e25029d665
+      internalID: 1269821831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_238
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d9cf550cb84248b342631eb706f9b
+      internalID: -636730902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_239
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ff2cff30c1bc42a95898242148500
+      internalID: 1348925156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_240
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715373e89935944db938ec08a75de26
+      internalID: 1099433090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_241
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ad5f8612dae94096d2ad1c6059c2a
+      internalID: 1355353595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_242
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859054835e9ef54e90a566715d1365d
+      internalID: 721565993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_243
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c970261c96af44862f9685b368650
+      internalID: 777710539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_244
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b8ac8732c1414baf21dfee3e2c51f
+      internalID: 1545279884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_245
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166605dbfebc49441aef6762a799a0d1
+      internalID: 1137261573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_246
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8bb66ae930174c80a523c112def3f
+      internalID: 56338588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_247
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ddb43465dd504b94bae2f8dc7b421
+      internalID: -1268369586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_248
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e6f5deeaef2d4dbce4eac8ca3ba67
+      internalID: -1704038063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_249
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f86593f7d22d4bbf18994e4a7bfde
+      internalID: -1556452529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_250
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697fd107a6bea8b44b0d209f22f42fc0
+      internalID: -493784142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_251
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 28
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1575220a4410b46ae3099dbd0f0183
+      internalID: -659235339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_252
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46586caf41b74c94cb221fb5c7ecead4
+      internalID: 1821271792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_253
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db81ce1f44fe1b42b3d910b5944f6d9
+      internalID: 1586804645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_254
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec476a9ccbc12d41b8604a5f474ea93
+      internalID: -1380826447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_255
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8175fa6403f334faacb4e12d96aa73
+      internalID: -1190657316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_256
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2994838330d68a4f881d1e972f1ae05
+      internalID: 1521062560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_257
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206690051dc0ac499389e7caa6ccc9a
+      internalID: 589441134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_258
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018974e2ac42b14eb3f3345c63b5689
+      internalID: 304081612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_259
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83af54be895a924b80fbf9506db6011
+      internalID: 519915351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_260
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a73cc7da115d144bafa6406d8b0ce4
+      internalID: -497693499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_261
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060aa7b5072a634e8359cdff3186be9
+      internalID: 115634020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_262
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8cbfddaf7db1c4381ca3ae25197843
+      internalID: -2084247320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_263
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f651932bec8f4baca321d6e6940d6
+      internalID: -1283861050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_264
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4499dae5ff1f8bf4697cee0a2ed4c2d3
+      internalID: -1133518297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_265
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b54a6f5372fa042923e594a9ce5b91
+      internalID: -587991666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_266
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a850c93e5a83a44fa35da9a90c353e6
+      internalID: -860936970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_267
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0844814231b83c249ba2af889564a932
+      internalID: 1614773423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_268
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d559fbb9b68e4082a7bd616e97ffe
+      internalID: 207818301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_269
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 6
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d2cc2451ae53d49a16b739263d82a0
+      internalID: 1553205552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fbf045f2a8c348140bed88fa1293f1d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":27.0,"y":22.0},"gridSpriteOffset":{"x":24.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_0: -4545831340272107707
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_1: 738974106
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_10: 710352547
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_100: -972542332
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_101: 230617995
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_102: -287638859
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_103: -1431853997
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_104: 1243550374
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_105: -849466434
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_106: 1351900724
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_107: 260832642
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_108: 1815703464
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_109: 1336772970
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_11: -1653200250
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_110: -347573553
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_111: -1637278040
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_112: -1705391399
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_113: -646351347
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_114: 1838405422
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_115: 2033730800
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_116: -1296041214
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_117: -1809187539
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_118: -230252455
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_119: 873555544
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_12: -613946034
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_120: 1579156321
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_121: -1552812802
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_122: 588877617
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_123: 173961737
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_124: 841243331
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_125: 735144352
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_126: -623767861
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_127: 1344409191
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_128: -1377492227
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_129: -339583430
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_13: -550302099
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_130: -472914818
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_131: 2060878921
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_132: 1712336650
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_133: 1123056914
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_134: -1067795596
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_135: 1872055661
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_136: -547232992
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_137: 509567764
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_138: 1183681943
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_139: -978336925
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_14: 1824891034
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_140: -798708087
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_141: -292419401
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_142: -496537729
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_143: 1435617885
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_144: 1385195163
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_145: 537132294
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_146: -2030300941
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_147: -2047431898
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_148: -1477147668
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_149: 1621034777
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_15: -1195511486
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_150: -157018840
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_151: 1393231446
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_152: 1120494314
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_153: 800915707
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_154: 613238338
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_155: -1163545258
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_156: 421113069
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_157: -865831589
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_158: 1461429697
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_159: 427524898
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_16: -799884470
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_160: -1685022332
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_161: -368676592
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_162: -433541972
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_163: 1731740825
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_164: 273526463
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_165: 1515388861
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_166: -362813807
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_167: -1930566066
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_168: 61166399
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_169: 1124570967
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_17: -1904550680
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_170: -692141873
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_171: -1052367077
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_172: -1039177242
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_173: 2077552506
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_174: -821248229
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_175: 903443562
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_176: -1687656417
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_177: -1980949635
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_178: -623659263
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_179: 385907231
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_18: -1063921819
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_180: -963287208
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_181: 844875015
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_182: -1342286252
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_183: 2130430350
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_184: 1519934174
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_185: -594510061
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_186: -273668948
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_187: 1818128518
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_188: -30774553
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_189: 25797190
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_19: 2089857482
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_190: -537117905
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_191: 2091460188
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_192: -1645596829
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_193: -1672986714
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_194: 2054422977
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_195: -659093981
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_196: -1120258375
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_197: -1486612773
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_198: 793698192
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_199: -497540260
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_2: 1262334401
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_20: 1489702389
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_200: 1787990826
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_201: 284584681
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_202: 25282871
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_203: 1316518761
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_204: 37098345
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_205: -340298177
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_206: 995810416
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_207: 795605775
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_208: 1911449035
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_209: -1072816289
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_21: 273551630
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_210: 464948968
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_211: 1985397553
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_212: -1060387873
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_213: -1759839450
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_214: 1849208937
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_215: 975930478
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_216: 1766394141
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_217: 137258
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_218: 545180038
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_219: 10786245
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_22: 1287886598
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_220: -1010393999
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_221: -589665971
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_222: 564646925
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_223: 1034804291
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_224: 1842784097
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_225: -1388837753
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_226: -1790188729
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_227: -1924626269
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_228: 2065536636
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_229: -1770815914
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_23: -1288786443
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_230: 1887293707
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_231: 1780957179
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_232: -930180425
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_233: -756279546
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_234: 937880150
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_235: -913351976
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_236: 1731925801
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_237: 1269821831
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_238: -636730902
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_239: 1348925156
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_24: 432525239
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_240: 1099433090
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_241: 1355353595
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_242: 721565993
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_243: 777710539
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_244: 1545279884
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_245: 1137261573
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_246: 56338588
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_247: -1268369586
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_248: -1704038063
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_249: -1556452529
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_25: 869197363
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_250: -493784142
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_251: -659235339
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_252: 1821271792
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_253: 1586804645
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_254: -1380826447
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_255: -1190657316
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_256: 1521062560
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_257: 589441134
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_258: 304081612
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_259: 519915351
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_26: 1843781145
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_260: -497693499
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_261: 115634020
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_262: -2084247320
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_263: -1283861050
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_264: -1133518297
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_265: -587991666
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_266: -860936970
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_267: 1614773423
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_268: 207818301
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_269: 1553205552
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_27: -1833253669
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_28: -904364168
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_29: -646151028
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_3: 1393643860
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_30: -1059515439
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_31: 707854074
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_32: -1084166817
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_33: -2048288181
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_34: 449755147
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_35: -230231571
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_36: 154899197
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_37: 1432322378
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_38: 2042628655
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_39: -1471992634
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_4: 1974171304
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_40: 629813450
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_41: -1262138511
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_42: 2066613105
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_43: 378233097
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_44: 1151757597
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_45: -197075893
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_46: -1709939211
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_47: 685857341
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_48: -905858452
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_49: 1049034503
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_5: 256234619
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_50: 175950965
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_51: -68197888
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_52: -2145387910
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_53: 1426095657
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_54: -1781427497
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_55: -1503866355
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_56: 1876776881
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_57: 435209620
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_58: 1558777867
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_59: 1264781642
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_6: 347096389
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_60: -1272795208
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_61: -1817866497
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_62: -1690306180
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_63: 1870824938
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_64: -1837166832
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_65: 1193873270
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_66: 251745227
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_67: 474754800
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_68: -1501491785
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_69: -826619050
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_7: -361048120
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_70: 1429288499
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_71: 1185347669
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_72: 1131987626
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_73: 1146287432
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_74: 1947532012
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_75: -100877397
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_76: -405331489
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_77: -1511626836
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_78: 900634869
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_79: 1586534405
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_8: -2123884678
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_80: 585178427
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_81: -1408701515
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_82: -1096278069
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_83: -695707320
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_84: 313498551
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_85: 812337302
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_86: -1959122763
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_87: 830400426
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_88: -260859346
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_89: 568094333
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_9: -1755095430
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_90: 1284562930
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_91: 785461478
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_92: -1731814254
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_93: 894206032
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_94: 1691981772
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_95: 1090436171
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_96: -338534103
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_97: 1791461866
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_98: -1638142741
+      DS _ DSi - Pokemon Diamond _ Pearl - Backgrounds - Player's House_99: -83906993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd6d1ad2b88add498846d849e9aee96, type: 3}
+  m_Name: PC
+  m_EditorClassIdentifier: Assembly-CSharp::GamepadIconMap
+  gamepadType: 0
+  entries:
+  - displayName: E
+    controlPath: <Keyboard>/E
+    sprite: {fileID: -6188558760489129660, guid: 1905fb63dba4494468678eb53aeec865, type: 3}
+  - displayName: Q
+    controlPath: <Keyboard>/Q
+    sprite: {fileID: -6188558760489129660, guid: 1905fb63dba4494468678eb53aeec865, type: 3}
